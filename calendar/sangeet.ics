@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AjithVidhiWedding//Invitation//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5sangeet@ajith-vidhi.wedding
+DTSTAMP:20250905T100114Z
+DTSTART;TZID=Asia/Kolkata:20251102T170000
+DTEND;TZID=Asia/Kolkata:20251102T210000
+SUMMARY:Sangeet - Ajith & Vidhi
+LOCATION:Darsana Event Space\, Kuzhalmannam East\, Palakkad\, Kerala
+DESCRIPTION:Sangeet night with music and dance.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AjithVidhiWedding//Invitation//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3haldi@ajith-vidhi.wedding
+DTSTAMP:20250905T100114Z
+DTSTART;TZID=Asia/Kolkata:20251101T110000
+DTEND;TZID=Asia/Kolkata:20251101T140000
+SUMMARY:Haldi - Ajith & Vidhi
+LOCATION:Darsana Event Space\, Kuzhalmannam East\, Palakkad\, Kerala
+DESCRIPTION:Haldi ceremony. Dress code: Yellow/White.
+END:VEVENT
+END:VCALENDAR

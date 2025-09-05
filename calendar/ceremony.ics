@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AjithVidhiWedding//Invitation//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1ceremony@ajith-vidhi.wedding
+DTSTAMP:20250905T100114Z
+DTSTART;TZID=Asia/Kolkata:20251103T103000
+DTEND;TZID=Asia/Kolkata:20251103T123000
+SUMMARY:Wedding Ceremony - Ajith & Vidhi
+LOCATION:Yakkara Sree Mahavishnu Temple\, West Yakkara\, Palakkad\, Kerala
+DESCRIPTION:Wedding ceremony
+END:VEVENT
+END:VCALENDAR
